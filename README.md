@@ -18,6 +18,7 @@ SO THAT I can organize and plan my business
 - Console.table
 
 # GitHub Link
+https://github.com/kusalaindika1/my-employee-traker
 
 # Screencastify video link
 
